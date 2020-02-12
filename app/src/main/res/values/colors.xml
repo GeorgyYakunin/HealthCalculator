@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#353535</color>
+    <color name="colorAccent">#4553C8</color>
+    <color name="primary">#3553c9</color>
+    <!--    <color name="primary">#2a3546</color>-->
+    <color name="DimGray">#727272</color>
+    <color name="white">#ffffff</color>
+    <color name="primarydark">#536CD7</color>
+    <!--    <color name="primarydark">#1f2734</color>-->
+    <color name="OrangeRed">#fc5522</color>
+    <color name="DarkOrange">#fc8e11</color>
+    <color name="Crimson">#dc245c</color>
+    <color name="greenish">#ff3dfcbc</color>
+    <color name="bg_color">#c8c8c8</color>
+    <!--    <color name="bg_color">#DEDEDE</color>-->
+    <color name="txt_black">#363636</color>
+    <color name="bgColor">#F4F9FF</color>
+
+
+    <color name="bluecolorPrimary">#8C5FCD</color>
+    <color name="bluecolorPrimaryDark">#3553E2</color>
+    <color name="bluecolorAccent">#363636</color>
+
+    <color name="yellowcolorPrimary">#C3DC5D</color>
+    <color name="yellowcolorPrimaryDark">#FC8522</color>
+    <color name="yellowcolorAccent">#333333</color>
+
+    <color name="cyancolorPrimary">#35ACD5</color>
+    <color name="cyancolorPrimaryDark">#3580AC</color>
+    <color name="cyancolorAccent">#363636</color>
+
+    <color name="pinkcolorPrimary">#C278D7</color>
+    <color name="pinkcolorPrimaryDark">#734BB5</color>
+    <color name="pinkcolorAccent">#363636</color>
+
+    <color name="orangecolorPrimary">#E97F46</color>
+    <color name="orangecolorPrimaryDark">#DC4566</color>
+    <color name="orangecolorAccent">#333333</color>
+
+<color name="graycolorPrimary">#4C658F</color>
+    <color name="graycolorPrimaryDark">#45508F</color>
+    <color name="graycolorAccent">#363636</color>
+
+
+</resources>
